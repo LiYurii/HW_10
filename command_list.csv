@@ -1,0 +1,177 @@
+    1  cd
+    2  help cd
+    3  history-c && rm
+    4  history-c && rm~/.
+    5  bash_history
+    6  clear-history
+    7  clear
+    8  git config --global user.name "yurii"
+    9  git config --global user.email"li.yurij.1992@gmail.com"
+   10  git config --global --list
+   11  git config --global --list
+   12  git config --global user.email"li.yurij.1992@gmail.com"
+   13  git config --global --list
+   14  clear
+   15  git config --global user. name "yurii"
+   16  fhjufhclear
+   17  clear
+   18  git config --global --list
+   19  git config --global user. email li.yurij.1992@gmail.com
+   20  git config --global user.email li.yurij.1992@gmail.com
+   21  clear
+   22  git clone [200~https://github.com/LiYurii/HW_10.git~
+   23  git clone https://github.com/LiYurii/HW_10.git
+   24  cd HW_10
+   25  text_ignore.txt (touch)
+   26  clear
+   27  touch text_ignore.txt
+   28  vim gitignor
+   29  git status
+   30  git add 
+   31  commit
+   32  git add gitignor
+   33  git status
+   34  git add text_ignor.text
+   35  git status
+   36  commit
+   37  git commit -m txt
+   38  touch empty.main_test.txt
+   39  git add
+   40  clear
+   41  touch main_test.txt
+   42  git add.
+   43  git --help
+   44  git add
+   45  git add main_test.txt
+   46  git commit -m txt
+   47  checkout
+   48  git checkout
+   49  git checkout -b branch_develop
+   50  touch empty.develip_test.txt
+   51  touch develop_test.txt
+   52  git add
+   53  git add develop_test.txt
+   54  git commit-m txt
+   55  develop_test.txt file
+   56  develop_test.txt
+   57  vim file.develop_test.txt
+   58  git status
+   59  git commit -m txt
+   60  git add develop_test.txt
+   61  git checkout branch_main
+   62  clear
+   63  git checkout branch_main_test.txt
+   64  git checkout branch_main_test
+   65  git checkout branch_main
+   66  ls
+   67  cd main_test.txt 
+   68  git checkout main
+   69  git merge branch_develop
+   70  git log.
+   71  git merge develop
+   72  git merge_develop
+   73  git merge develop
+   74  git merge develop_test
+   75  git clone [https://github.com/LiYurii/HW_10.git]
+   76  git clone https://github.com/LiYurii/HW_10.git
+   77  cd HW_10
+   78  touch text_ignore.txt 
+   79  vim file.txt text_ignore.txt
+   80  vim file.txt gitignore
+   81  git status
+   82  git add gitignore
+   83  git add. gitignore
+   84  git add. text_ignore.txt
+   85  git add gitignore
+   86  git add. HW_10
+   87  git add
+   88  git commit-m 
+   89  cd test доьфшня робота
+   90  cd /домашня робота.
+   91  cd G: домашня робота
+   92  cd test домашня робота
+   93  clier
+   94  clear
+   95  git config --global user.name li yurii
+   96  git config --global user.email li.yurij.1992@gmail.com
+   97  git clone https://github.com/LiYurii/HW_10.git
+   98  cd HW_10
+   99  touch text_ignore.txt
+  100  vim gitignore
+  101  git status
+  102  git commit -m 
+  103  git commit 
+  104  git add gitignire
+  105  git add text_ignore.txt
+  106  git commit 
+  107  touch main_test.txt
+  108  git add main_test.txt
+  109  git commit 
+  110  mkdir develop 
+  111  git checkout develop
+  112  git checkout -b develop
+  113  touch empty.txt develop_test.txt
+  114  git add develop_test.txt
+  115  git commit 
+  116  vim file.txt develop_test.txt file
+  117  git status
+  118  git add develop_test.tx
+  119  git add develop_test.txt file
+  120  nano file.txt develop_test.txt file
+  121  git status
+  122  vim file.txt develop_test.txt file
+  123  git status
+  124  git add gitignore
+  125  git add filed
+  126  git add fale.txt
+  127   commit
+  128  git commit
+  129  git checkout main
+  130  git merge develop
+  131  git log
+  132  git command_list.csv
+  133  command_list.csv
+  134  history > command_list.csv
+  135  git add
+  136  git merge develop
+  137  git log.
+  138  git log
+  139   git push
+  140  git push
+  141  git push
+  142  history > command_list.csv
+  143  git add .
+  144  git commit -m "new"
+  145  git push
+  146  git add comand_list.scv
+  147  cd HW_10
+  148  clear
+  149  git config user.name "yurij"
+  150  git config --global user.name "yurij"
+  151  git config --global user.email li.yurj.1992@gmail.com
+  152  git clone https://github.com/LiYurii/HW_10.git
+  153  cd HW_10
+  154  touch text_ignore.txt
+  155  vim .gitignore
+  156  git status
+  157  git add .
+  158  git commit
+  159  touch main_test.txt
+  160  git add .
+  161  git commit
+  162  mkdir develop
+  163  git checkout develop
+  164  git checkout -b develop
+  165   git checkout develop
+  166  touch develop_test.txt
+  167  git add .
+  168  git commit
+  169  vim develop_test.txt
+  170  git status
+  171  git add .
+  172  git commit
+  173  checkout main
+  174  git checkout main
+  175  git merge develop
+  176  git log
+  177  history > command_list.csv
